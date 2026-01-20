@@ -139,11 +139,6 @@ function handleCommand(cmd) {
 </body>
 </html>
 
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
